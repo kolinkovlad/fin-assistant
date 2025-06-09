@@ -30,7 +30,21 @@ docker compose up -d           # uses docker-compose.yml with redis:7-alpine
 ```bash
 poetry run uvicorn app.server.main:app --reload
 ```
-# 6 Open the interactive API
+
+# 6 Launch the Streamlit UI (Optional)
+
+A lightweight local interface to chat with the assistant.
+
+poetry run streamlit run app/ui.py
+
+Then open http://localhost:8501 in your browser.
+
+You can:
+	•	Start chatting directly in the browser
+	•	Enter a custom session-id to continue a previous session
+	•	Generate a new session-id for fresh chats
+
+# 7 Open the interactive API
 open http://127.0.0.1:8000/docs
 
 ### 🧩 Session-ID & state persistence  
