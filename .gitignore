@@ -1,0 +1,81 @@
+############################################
+#  Python / Poetry
+############################################
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtual envs (Poetry-managed or manual)
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.Python
+
+# Poetry build artifacts
+dist/
+build/
+wheelhouse/
+*.egg-info/
+.eggs/
+
+# local settings & secrets
+.env
+.env.*
+*.env
+*.ini
+*.toml.local
+poetry.lock.bak
+
+# mypy / ruff / pytest
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# coverage & test reports
+.coverage
+.coverage.*
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+############################################
+#  Docker / Containers
+############################################
+docker-compose.override.yml
+**/.dockerignore-generated
+**/*-build/
+# Docker layer cache (optional—comment out to keep)
+docker-cache/
+
+############################################
+#  IDEs / Editors
+############################################
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm / IntelliJ
+.idea/
+
+# Vim / MacOS miscellaneous
+*.swp
+*.swo
+.DS_Store
+
+
+node_modules/
+npm-debug.log*
+yarn.lock.bak
+
+############################################
+#  Miscellaneous
+############################################
+logs/
+*.sqlite3
+*.db
+tmp/

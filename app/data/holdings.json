@@ -1,0 +1,32 @@
+[
+  {
+    "isin": "IE00B3XXRP09",
+    "name": "Vanguard FTSE All-World UCITS ETF (VWRL)",
+    "value": 15000.0,
+    "provider": "AJ Bell"
+  },
+  {
+    "isin": "IE00B5BMR087",
+    "name": "iShares Core Global Aggregate Bond UCITS ETF (AGGG)",
+    "value": 10000.0,
+    "provider": "AJ Bell"
+  },
+  {
+    "isin": "IE00BKM4GZ66",
+    "name": "iShares MSCI Emerging Markets UCITS ETF (EIMI)",
+    "value": 5000.0,
+    "provider": "AJ Bell"
+  },
+  {
+    "isin": "IE00BF4RFH31",
+    "name": "iShares Global Clean Energy UCITS ETF (INRG)",
+    "value": 3000.0,
+    "provider": "AJ Bell"
+  },
+  {
+    "isin": "IE00B42NKQ00",
+    "name": "iShares MSCI USA Quality Factor UCITS ETF (IUQF)",
+    "value": 7000.0,
+    "provider": "AJ Bell"
+  }
+]

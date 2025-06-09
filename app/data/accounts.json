@@ -1,0 +1,14 @@
+[
+  {
+    "provider": "AJ Bell",
+    "account_type": "ISA"
+  },
+  {
+    "provider": "Revolut",
+    "account_type": "GIA"
+  },
+  {
+    "provider": "Vanguard",
+    "account_type": "SIPP"
+  }
+]

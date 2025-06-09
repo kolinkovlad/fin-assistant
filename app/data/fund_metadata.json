@@ -1,0 +1,76 @@
+[
+  {
+    "isin": "IE00B3XXRP09",
+    "name": "Vanguard FTSE All-World UCITS ETF (VWRL)",
+    "ongoing_charge": 0.22,
+    "asset_class": "Equity - Global",
+    "region": "Global"
+  },
+  {
+    "isin": "IE00BK5BQT80",
+    "name": "HSBC FTSE All-World UCITS ETF (HMWO)",
+    "ongoing_charge": 0.15,
+    "asset_class": "Equity - Global",
+    "region": "Global"
+  },
+
+  {
+    "isin": "IE00B5BMR087",
+    "name": "iShares Core Global Aggregate Bond UCITS ETF (AGGG)",
+    "ongoing_charge": 0.10,
+    "asset_class": "Bond - Global Aggregate",
+    "region": "Global"
+  },
+  {
+    "isin": "IE00BZ163L36",
+    "name": "Xtrackers Global Aggregate Bond Swap UCITS ETF (XBAG)",
+    "ongoing_charge": 0.07,
+    "asset_class": "Bond - Global Aggregate",
+    "region": "Global"
+  },
+
+  {
+    "isin": "IE00BKM4GZ66",
+    "name": "iShares MSCI Emerging Markets UCITS ETF (EIMI)",
+    "ongoing_charge": 0.18,
+    "asset_class": "Equity - Emerging Markets",
+    "region": "Emerging"
+  },
+  {
+    "isin": "IE00B5M4WH52",
+    "name": "Amundi MSCI Emerging Markets UCITS ETF (AEEM)",
+    "ongoing_charge": 0.15,
+    "asset_class": "Equity - Emerging Markets",
+    "region": "Emerging"
+  },
+
+  {
+    "isin": "IE00BF4RFH31",
+    "name": "iShares Global Clean Energy UCITS ETF (INRG)",
+    "ongoing_charge": 0.65,
+    "asset_class": "Equity - Thematic",
+    "region": "Global"
+  },
+  {
+    "isin": "LU2332754021",
+    "name": "Lyxor MSCI New Energy ESG Filtered UCITS ETF (NRJ)",
+    "ongoing_charge": 0.45,
+    "asset_class": "Equity - Thematic",
+    "region": "Global"
+  },
+
+  {
+    "isin": "IE00B42NKQ00",
+    "name": "iShares MSCI USA Quality Factor UCITS ETF (IUQF)",
+    "ongoing_charge": 0.30,
+    "asset_class": "Equity - US",
+    "region": "North America"
+  },
+  {
+    "isin": "IE00BGBZBM88",
+    "name": "SPDR S&P U.S. Quality Mix UCITS ETF (QUSG)",
+    "ongoing_charge": 0.15,
+    "asset_class": "Equity - US",
+    "region": "North America"
+  }
+]
