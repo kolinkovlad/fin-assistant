@@ -19,8 +19,7 @@ session_id = st.text_input("Session ID:", key="session_id", placeholder="Enter s
 generate_session = st.button("Generate New Session ID")
 if generate_session:
     session_id = str(uuid4())
-    st.text(f"New session ID generated. {session_id} You can use this to continue the chat later.")
-
+    st.text(f"New session ID generated.\n{session_id}\nYou can use this to continue the chat later.")
 
 
 user_input = st.text_input("You:", key="user_input")
